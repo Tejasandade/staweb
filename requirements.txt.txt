@@ -1,5 +1,0 @@
-streamlit
-skyfield
-geopy
-matplotlib
-numpy

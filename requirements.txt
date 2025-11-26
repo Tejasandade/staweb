@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+skyfield
+geopy
+numpy
+Pillow
+adjustText
